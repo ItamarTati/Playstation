@@ -1,8 +1,3 @@
-Mern Stack Tutorial By NoobCoder.com
-
-Video tutorial can be found here:
-
-https://youtu.be/35BSnmTbjlE
 
 This project was bootstrapped with Create React App.
 
