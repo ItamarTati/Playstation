@@ -21,7 +21,7 @@
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "git-init": "^1.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.8.0",
     "node-sass": "^4.13.0",
     "postcss": "^7.0.24",
