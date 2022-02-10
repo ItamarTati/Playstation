@@ -23,7 +23,7 @@
     "git-init": "^1.0.0",
     "jquery": "^3.4.1",
     "mongoose": "^5.8.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "postcss": "^7.0.24",
     "postcss-use": "^3.0.0",
     "react-bootstrap": "^1.0.0-beta.16",
